@@ -1,0 +1,27 @@
+body{
+  font-family: 'Helvetica';
+  text-align: center;
+  background: #212121;
+  margin-top: 50px;
+}
+
+h1{
+  color: #fff;
+}
+
+p {
+  color: #fff;
+  font-size: 30px;
+}
+
+#play_img {
+  width: 20%;
+  height: 20%;
+  margin-bottom: 30px;
+}
+
+footer {
+	color: #aaa;
+	font-size:14px;
+	gravity: bottom;
+	}

@@ -1,0 +1,6 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target" : { "namespace": "android_app",
+      "package_name": "com.pimpimmobile.atimer",
+                 "sha256_cert_fingerprints": ["6B:52:4B:D9:16:9F:54:57:FC:3F:F3:96:77:D2:E5:7F:C8:65:2C:82:89:93:D7:8D:CC:99:9F:CE:A5:A8:97:C9"] }
+  }]
