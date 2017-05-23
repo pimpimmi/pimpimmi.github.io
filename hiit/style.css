@@ -2,7 +2,6 @@ body{
   font-family: 'Helvetica';
   text-align: center;
   background: #212121;
-  margin-top: 50px;
 }
 
 h1{
@@ -15,13 +14,11 @@ p {
 }
 
 #play_img {
-  width: 258px;
+  
   height: 100px;
-  margin-bottom: 30px;
 }
 
 footer {
 	color: #aaa;
 	font-size:14px;
-	gravity: bottom;
 	}
